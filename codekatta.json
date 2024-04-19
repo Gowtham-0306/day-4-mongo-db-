@@ -1,0 +1,28 @@
+[
+    {
+      "user_id": 1,
+      "username": "user1",
+      "problems_solved": 20
+    },
+    {
+      "user_id": 2,
+      "username": "user2",
+      "problems_solved": 15
+    },
+    {
+      "user_id": 3,
+      "username": "user3",
+      "problems_solved": 25
+    },
+    {
+      "user_id": 4,
+      "username": "user4",
+      "problems_solved": 18
+    },
+    {
+      "user_id": 5,
+      "username": "user5",
+      "problems_solved": 30
+    }
+  ]
+  

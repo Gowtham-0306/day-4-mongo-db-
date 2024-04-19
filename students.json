@@ -1,0 +1,38 @@
+[
+    {
+      "name": "John Doe",
+      "roll_number": "2023001",
+      "department": "Computer Science",
+      "placement_status": "appeared",
+      "drives_attended": ["TechCorp", "InnoSoft"]
+    },
+    {
+      "name": "Jane Smith",
+      "roll_number": "2023002",
+      "department": "Electrical Engineering",
+      "placement_status": "appeared",
+      "drives_attended": ["InnoSoft", "NanoTech"]
+    },
+    {
+      "name": "Alice Johnson",
+      "roll_number": "2023003",
+      "department": "Mechanical Engineering",
+      "placement_status": "appeared",
+      "drives_attended": ["InnoSoft"]
+    },
+    {
+      "name": "Bob Brown",
+      "roll_number": "2023004",
+      "department": "Civil Engineering",
+      "placement_status": "not_appeared",
+      "drives_attended": []
+    },
+    {
+      "name": "Emily Davis",
+      "roll_number": "2023005",
+      "department": "Computer Science",
+      "placement_status": "appeared",
+      "drives_attended": ["TechCorp", "InnoSoft", "NanoTech"]
+    }
+  ]
+  

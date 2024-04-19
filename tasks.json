@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "userId": 1,
+      "taskId": 1,
+      "marks": 85,
+      "type": "Assignment",
+      "month": "January",
+      "createdAt": "2024-01-20T16:00:00+05:30",
+      "updatedAt": "2024-01-20T16:00:00+05:30"
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "taskId": 2,
+      "marks": 90,
+      "type": "Assignment",
+      "month": "February",
+      "createdAt": "2024-02-21T17:15:00+05:30",
+      "updatedAt": "2024-02-21T17:15:00+05:30"
+    },
+    {
+      "id": 3,
+      "userId": 3,
+      "taskId": 3,
+      "marks": 78,
+      "type": "Project",
+      "month": "March",
+      "createdAt": "2024-03-22T18:45:00+05:30",
+      "updatedAt": "2024-03-22T18:45:00+05:30"
+    },
+    {
+      "id": 4,
+      "userId": 4,
+      "taskId": 4,
+      "marks": 95,
+      "type": "Assignment",
+      "month": "April",
+      "createdAt": "2024-04-23T19:50:00+05:30",
+      "updatedAt": "2024-04-23T19:50:00+05:30"
+    },
+    {
+      "id": 5,
+      "userId": 5,
+      "taskId": 5,
+      "marks": 87,
+      "type": "Assignment",
+      "month": "May",
+      "createdAt": "2024-05-24T21:00:00+05:30",
+      "updatedAt": "2024-05-24T21:00:00+05:30"
+    }
+  ]
+  

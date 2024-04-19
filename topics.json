@@ -1,0 +1,68 @@
+[
+    {
+      "id": 1,
+      "name": "Introduction to Software Development",
+      "scheduledDate": "2024-01-20T09:00:00Z",
+      "content": "Overview of software development lifecycle, software engineering principles, and agile methodologies.",
+      "preread": "Review articles on software development methodologies.",
+      "sessionDetails": "Lecture followed by group discussions.",
+      "taskDetails": "Prepare a case study on a successful software development project.",
+      "batchId": 123,
+      "createdDate": "2024-01-19T12:00:00Z",
+      "updatedDate": "2024-01-19T12:00:00Z",
+      "month": "January"
+    },
+    {
+      "id": 2,
+      "name": "Version Control with Git",
+      "scheduledDate": "2024-02-21T09:00:00Z",
+      "content": "Fundamentals of version control, Git basics, branching strategies, and collaborative workflows.",
+      "preread": "Read chapters 1-3 of 'Pro Git' book.",
+      "sessionDetails": "Hands-on workshop with Git commands and GitHub.",
+      "taskDetails": "Collaboratively work on a GitHub repository to understand branching and merging.",
+      "batchId": 124,
+      "createdDate": "2024-02-18T09:00:00Z",
+      "updatedDate": "2024-02-18T09:00:00Z",
+      "month": "February"
+    },
+    {
+      "id": 3,
+      "name": "Web Development Basics",
+      "scheduledDate": "2024-03-22T09:00:00Z",
+      "content": "Introduction to HTML, CSS, and JavaScript, building static web pages, and understanding client-server architecture.",
+      "preread": "Review HTML, CSS, and JavaScript syntax.",
+      "sessionDetails": "Live coding session building a simple website.",
+      "taskDetails": "Build a personal portfolio website using HTML, CSS, and JavaScript.",
+      "batchId": 125,
+      "createdDate": "2024-03-17T15:30:00Z",
+      "updatedDate": "2024-03-17T15:30:00Z",
+      "month": "March"
+    },
+    {
+      "id": 4,
+      "name": "Introduction to Object-Oriented Programming",
+      "scheduledDate": "2024-04-23T09:00:00Z",
+      "content": "Fundamentals of OOP, classes, objects, inheritance, polymorphism, and encapsulation.",
+      "preread": "Review articles on OOP concepts.",
+      "sessionDetails": "Interactive lecture with code examples.",
+      "taskDetails": "Implement a simple object-oriented program modeling real-world entities.",
+      "batchId": 126,
+      "createdDate": "2024-04-16T14:45:00Z",
+      "updatedDate": "2024-04-16T14:45:00Z",
+      "month": "April"
+    },
+    {
+      "id": 5,
+      "name": "Database Design and SQL",
+      "scheduledDate": "2024-05-24T09:00:00Z",
+      "content": "Basics of database design, relational database concepts, SQL queries for data manipulation and retrieval.",
+      "preread": "Familiarize with SQL syntax and basic database concepts.",
+      "sessionDetails": "Practical exercises on creating and querying databases.",
+      "taskDetails": "Design a database schema for a simple e-commerce application and write SQL queries.",
+      "batchId": 127,
+      "createdDate": "2024-05-15T10:20:00Z",
+      "updatedDate": "2024-05-15T10:20:00Z",
+      "month": "May"
+    }
+  ]
+  
